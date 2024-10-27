@@ -1,9 +1,6 @@
 
-
-# Welcome!! 😄
-
-
-## I'm Maria ✨ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40e0d0&size=30&center=true&vCenter=true&width=600&lines=I'm Maria+X%29)](https://git.io/typing-svg)
+##
 
 💻 I'm a computer science student from Brazil!
 
