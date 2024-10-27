@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=600&lines=Welcome)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=600&lines=Welcome!)
 
 #I'm Maria ✨ 
 
