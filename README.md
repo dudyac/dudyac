@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40e0d0&size=30&center=true&vCenter=true&width=600&lines=I'm+Dudy)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=600&lines=Welcome)
+
+#I'm Maria ✨ 
 
 
 💻 I'm a computer science student from Brazil!
