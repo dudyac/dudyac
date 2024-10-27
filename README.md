@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**dudyac/dudyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Welcome!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=dudyac)](https://github.com/NOMEGIT/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudyac&langs_count=8)
+
+ 
+## I'm Maria ✨ 
+
+💻: I'm a computer science student from Brazil!
+
+
+-
+
+Thanks for your visit. 👋 Feel free to come here anytime!
