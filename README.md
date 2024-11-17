@@ -15,3 +15,13 @@
 ---
 
 Thanks for your visit. 👋 Feel free to come here anytime!
+
+<p align="left">
+  💌 Contact me:
+</p>
+
+<p align="left">
+  
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaeduardaacordeiro/" alt="LinkedIn"/></a>
+  [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:dudy_ac@hotmail.com)
