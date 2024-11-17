@@ -24,4 +24,6 @@ Thanks for your visit. 👋 Feel free to come here anytime!
   
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaeduardaacordeiro/" alt="LinkedIn"/></a>
-  [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:dudy_ac@hotmail.com)
+  <a href="mailto:dudy_ac@hotmail.com" title="Outlook">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"/>
+</a>
