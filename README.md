@@ -12,6 +12,6 @@
  ## Some of my projects: 
  <a href="https://dudyac.github.io/site-kuchenzauber/">Site Kuchenzauber</a> <br>
 
--
+---
 
 Thanks for your visit. 👋 Feel free to come here anytime!
