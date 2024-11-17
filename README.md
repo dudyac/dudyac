@@ -4,14 +4,8 @@
 👩🏻‍💻 *A Computer Science student from Brazil!*  
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/dudyac">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dudyac&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/dudyac">
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dudyac&layout=compact&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=000" alt="Most Used Languages"/>
-  </a>
-</div>
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=dudyac)](https://github.com/NOMEGIT/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dudyac&layout=compact&bg_color=FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=000)
 
 ## 🌟 Projects:  
 - [Site Kuchenzauber](https://dudyac.github.io/site-kuchenzauber/) 🍰  
