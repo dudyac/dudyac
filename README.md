@@ -3,8 +3,6 @@
 # Hi, I'm Maria! ✨  
 👩🏻‍💻 *A Computer Science student from Brazil!*  
 
----
-
 ## 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/dudyac">
@@ -15,12 +13,8 @@
   </a>
 </div>
 
----
-
 ## 🌟 Projects:  
 - [Site Kuchenzauber](https://dudyac.github.io/site-kuchenzauber/) 🍰  
-
----
 
 ## 💌 Contact Me:
 <p align="left">
