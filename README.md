@@ -22,4 +22,4 @@
 
 ---
 
-Thanks for stopping by! 👋 Feel free to come back anytime. 😊
+Thanks for stopping by! 👋 Feel free to come back anytime. 😊 
